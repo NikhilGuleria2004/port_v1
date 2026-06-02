@@ -1,12 +1,12 @@
 import { useState, useEffect } from "react";
 
 const data = {
-  name: "Your Name",
+  name: "Nikhil Guleria",
   title: "Software Engineer",
   tagline: "I build fast, reliable systems and clean user experiences.",
-  location: "San Francisco, CA",
-  email: "you@email.com",
-  github: "github.com/yourhandle",
+  location: "Mohali, Punjab",
+  email: "nikhilguleria20004@gmail.com",
+  github: "github.com/nikhilguleria20004",
   linkedin: "linkedin.com/in/yourhandle",
   about:
     "Full-stack engineer with 4+ years building web products from prototype to production. I care about clean architecture, developer experience, and shipping things that actually work. Previously at [Company], currently open to new opportunities.",
