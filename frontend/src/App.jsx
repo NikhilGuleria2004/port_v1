@@ -1,13 +1,12 @@
-// import Portfolio from './Portfolio';
-import Test from './Test.jsx';
+import Portfolio from './Portfolio';
 import './App.css';
 
 function App() {
 
 
   return (
-    // <Portfolio></Portfolio>
-    <Test/>
+     <Portfolio></Portfolio>
+    
   )
 }
 
